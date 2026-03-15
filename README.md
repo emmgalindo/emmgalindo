@@ -1,4 +1,5 @@
 # Emmanuel Galindo-Montellano
+I am interested in applying chemical engineering to environmental and industrial systems that affect public health, particularly emissions reduction and sustainable chemical processes.
 
 UC San Diego | Pharmacological Chemistry  
 Chemical Engineering & Biotech Internships
@@ -8,10 +9,10 @@ Chemical Engineering & Biotech Internships
 ## Areas of Interest
 
 - Reaction engineering and kinetics
-- Separation processes and chromatography
-- Bioprocess purification
-- Environmental chemical analysis
 - Process modeling and simulation
+- Separation processes and chromatography
+- Environmental chemical systems
+- Bioprocess purification
 
 ---
 
