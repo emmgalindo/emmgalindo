@@ -1,6 +1,6 @@
 # Emmanuel Galindo-Montellano
 
-Chemical engineering student at UC San Diego with experience in reaction engineering, analytical chemistry, and computational modeling.
+Pharmacological Chemistry student at UC San Diego | Seeking Biotech & Chemical Engineering Internships
 
 ---
 
