@@ -1,16 +1,49 @@
-## Hi there 👋
+# Emmanuel Galindo-Montellano
 
-<!--
-**emmgalindo/emmgalindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Chemical engineering student at UC San Diego with experience in reaction engineering, analytical chemistry, and computational modeling.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+- Reaction engineering and kinetics
+- Separation processes and chromatography
+- Bioprocess purification
+- Environmental chemical analysis
+- Process modeling and simulation
+
+---
+
+## Featured Project
+
+**Chemical Engineering Portfolio**
+
+Projects include:
+
+• Enzyme kinetics modeling of lactate dehydrogenase  
+• Recombinant protein purification and SDS-PAGE analysis  
+• Fractional distillation and gas chromatography analysis  
+• Environmental chemical analysis of marine water  
+• MATLAB simulation of hydrogen peroxide decomposition in a CSTR  
+
+View the portfolio:
+
+[Chemical Engineering Portfolio](https://github.com/emmgalindo/chemical-engineering-portfolio)
+
+---
+
+## Tools and Techniques
+
+MATLAB  
+UV-Vis spectroscopy  
+Atomic absorption spectroscopy  
+SDS-PAGE  
+Gas chromatography  
+Reaction kinetics modeling
+
+---
+
+## Contact
+
+Email: emmgalindo@gmail.com
+LinkedIn: www.linkedin.com/in/emmanuel-galindo-montellano
