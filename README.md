@@ -1,6 +1,7 @@
 # Emmanuel Galindo-Montellano
 
-Pharmacological Chemistry student at UC San Diego | Seeking Biotech & Chemical Engineering Internships
+UC San Diego | Pharmacological Chemistry  
+Chemical Engineering & Biotech Internships
 
 ---
 
