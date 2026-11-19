@@ -25,6 +25,6 @@ The four lab projects are based on UC San Diego undergraduate experimental work.
 
 ### Explore
 
-**[Portfolio website](https://emmgalindo.github.io/)** · **[Technical project repository](https://github.com/emmgalindo/chemical-engineering-portfolio)** · **[LinkedIn](https://www.linkedin.com/in/emmanuel-galindo-montellano/)**
+**[Portfolio website](https://emmgalindo.github.io/)** · **[Full project portfolio (PDF)](https://github.com/emmgalindo/chemical-engineering-portfolio/blob/main/Chemical_Engineering_Portfolio.pdf)** · **[Technical project repository](https://github.com/emmgalindo/chemical-engineering-portfolio)** · **[LinkedIn](https://www.linkedin.com/in/emmanuel-galindo-montellano/)**
 
 **Contact:** emmgalindo234@gmail.com
